@@ -1,0 +1,3 @@
+# Texas Hold ’Em Game Algorithm
+
+Algorithm in C++ programming language to determine the winners of a thousand Texas Hold ’Em hands contained in the 'poker.txt' file. The thousand hands were generated randomly for two players. Each line of the file contains ten cards, separated by spaces: the first two cards belong to the first player, the next two belong to the second player and the last five cards are community cards. The last card was ignored. All hands are valid, i.e., there are no invalid characters or repeated cards. The four suits of the cards were coded as C (hearts), D (diamonds), P (spades) and T (clubs). The 10 was encoded as a 0.
